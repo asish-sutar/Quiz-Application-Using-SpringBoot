@@ -110,7 +110,5 @@ Make sure to replace `{id}` with the actual ID of the quiz.
 
 - `QuizController`: REST controller handling quiz-related HTTP requests.
 
-Feel free to explore and modify the code as needed for your specific requirements.
 ```
 
-Copy and paste this content into your README.md file on GitHub. Adjustments can be made based on your specific needs or preferences.
