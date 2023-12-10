@@ -110,5 +110,3 @@ Make sure to replace `{id}` with the actual ID of the quiz.
 
 - `QuizController`: REST controller handling quiz-related HTTP requests.
 
-```
-
